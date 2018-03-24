@@ -30,12 +30,12 @@
   <repository>
      <id>mahi</id>
      <name>Internal Releases</name>
-     <url>http://52.90.52.88:8888/nexus-latest/content/repositories/releases/</url>
+     <url>http://54.172.241.230:8888/nexus-latest/content/repositories/releases/</url>
   </repository>
   <snapshotRepository>
      <id>mahi</id>
      <name>Internal Releases</name>
-     <url>http://52.90.52.88:8888/nexus-latest/content/repositories/snapshots/</url>
+     <url>http://54.172.241.230:8888/nexus-latest/content/repositories/snapshots/</url>
   </snapshotRepository>
 </distributionManagement>
 
